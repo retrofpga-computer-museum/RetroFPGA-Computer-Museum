@@ -1,8 +1,61 @@
 # RetroFPGA Computer Museum
 
-**FPGA-powered preservation of world computing heritage — five eras, many regions, and every major computing domain.**
+## Opening Section — Project Introduction
 
-> **Project status:** Architecture and roadmap in development. Individual cores, systems, and features listed below are targets unless explicitly marked as verified. This repository is not a claim that every exhibit already runs on hardware.
+## 🌐 RetroFPGA Computer Museum — An Open-Source Computing Heritage Project
+**One FPGA. One Computer. One Era at a Time.**
+
+The RetroFPGA Computer Museum is an open-source engineering, educational, and digital preservation initiative dedicated to rebuilding the world's computing heritage through Field-Programmable Gate Array (FPGA) technology.
+
+From pioneering microprocessors and classic home computers to commercial mainframes, industrial systems, military computers, aerospace navigation equipment, spacecraft guidance systems, and legendary video game consoles, our mission is to bring historical computing architectures back to life.
+
+As original hardware becomes increasingly rare, expensive, and difficult to maintain, FPGA technology offers a powerful way to preserve the digital logic and engineering knowledge behind these remarkable machines.
+
+**Our goal is not simply to display vintage computers, but to make their architectures accessible, understandable, and operational for future generations.**
+
+### 🔗 Explore the Project on GitHub
+[**RetroFPGA Computer Museum — GitHub**](https://github.com/johnschoolworks/RetroFPGA-Computer-Museum)
+
+Explore the development roadmap, FPGA implementations, educational tutorials, technical documentation, and planned exhibits.
+
+We welcome engineers, students, educators, researchers, and vintage computing enthusiasts from around the world to follow our progress and help preserve computing history.
+
+## Historic Computer Gallery
+
+These classic systems represent the kinds of machines the museum aims to reconstruct and study through FPGA-based preservation.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apple_II.jpg" width="300" alt="Apple II"><br>
+        <b>Apple II</b>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Commodore_PET_2001.jpg" width="300" alt="PET"><br>
+        <b>PET</b>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Commodore64.jpg" width="300" alt="Commodore 64"><br>
+        <b>Commodore 64</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Altair_8800_Computer.jpg" width="300" alt="Altair 8800"><br>
+        <b>Altair 8800</b>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Amiga_500.jpg" width="300" alt="Amiga"><br>
+        <b>Amiga</b>
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LM_lunar_lander.jpg" width="300" alt="Apollo lunar module"><br>
+        <b>Aerospace & Spacecraft</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Why This Museum Exists: Preserving Computing Heritage
 
@@ -245,10 +298,44 @@ The museum prioritizes reproducible, command-line workflows on **Linux**. Tools 
 
 Contributions are welcome in CPU RTL, peripherals, verification, documentation, Linux tooling, historical research, preservation provenance, international computing history, specialized-system research, and original demo software. Please include a reproducible test procedure and distinguish simulated results from tested hardware.
 
+## Closing Section — Join the Museum
+
+## 🚀 Join the RetroFPGA Computer Museum
+
+### Preserving Computing History Is a Shared Responsibility
+The history of computing belongs to everyone.
+
+Behind every historic computer lies a story of engineering innovation, scientific discovery, and human imagination. Yet many of these machines are disappearing as their original components deteriorate and their technical knowledge becomes increasingly difficult to recover.
+
+The RetroFPGA Computer Museum aims to change that through open-source collaboration, historical research, and practical FPGA engineering.
+
+Whether your interests include:
+
+- FPGA development, Verilog, and SystemVerilog
+- CPU architecture and digital logic
+- Vintage computers and historical operating systems
+- Assembly language and software preservation
+- Industrial, aerospace, and spacecraft computing
+- Military computing history
+- Video game consoles and arcade hardware
+- Linux development tools and hardware debugging
+- Technical documentation and computing education
+**There is a place for you in this project.**
+
+### 🔗 Visit Our GitHub Repository
+[**RetroFPGA Computer Museum — Open-Source Project**](https://github.com/johnschoolworks/RetroFPGA-Computer-Museum)
+
+You can support the project by starring the repository, opening GitHub Issues to suggest historical systems, contributing documentation, or submitting Pull Requests with hardware implementations and development tools.
+
+Our long-term vision is to build a living, interactive museum where computers from different eras and civilizations can operate again through modern programmable hardware.
+
+**We are not merely recreating old computers. We are preserving the engineering knowledge that made modern computing possible.**
+
+### RetroFPGA Computer Museum
+*One FPGA. One Computer. One Era at a Time.*
+
+**Rebuilding the world's computing heritage for future generations.**
+
 ## License
 
 **To be determined.** The repository owner will select a license. Third-party cores, ROMs, documentation, and assets may carry separate licenses and must retain their notices.
-
----
-
-**RetroFPGA Computer Museum** — *Preserving computing history by making its logic run again.*
