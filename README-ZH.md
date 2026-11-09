@@ -28,30 +28,26 @@ RetroFPGA Computer Museum 是一個開放原始碼的工程、教育與數位保
   <table>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apple_II.jpg" width="300" alt="Apple II"><br>
-        <b>Apple II</b>
+        <img src="images/5.jpeg" width="300" alt="經典電腦合輯：Apple II、PET、Commodore 64、Atari 400、Altair 8800 與 Amiga"><br>
+        <b>經典電腦合輯</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Commodore_PET_2001.jpg" width="300" alt="PET"><br>
-        <b>PET</b>
+        <img src="images/4.jpeg" width="300" alt="Altair 8800"><br>
+        <b>Altair 8800</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Commodore64.jpg" width="300" alt="Commodore 64"><br>
-        <b>Commodore 64</b>
+        <img src="images/1.jpeg" width="300" alt="月球上的阿波羅登月艙"><br>
+        <b>阿波羅登月艙</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Altair_8800_Computer.jpg" width="300" alt="Altair 8800"><br>
-        <b>Altair 8800</b>
+        <img src="images/2.jpeg" width="300" alt="阿波羅導引電腦顯示器與鍵盤"><br>
+        <b>阿波羅導引電腦顯示器</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Amiga_500.jpg" width="300" alt="Amiga"><br>
-        <b>Amiga</b>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LM_lunar_lander.jpg" width="300" alt="Apollo lunar module"><br>
-        <b>航太與太空船</b>
+        <img src="images/3.jpeg" width="300" alt="阿波羅導引電腦模組"><br>
+        <b>阿波羅導引電腦模組</b>
       </td>
     </tr>
   </table>

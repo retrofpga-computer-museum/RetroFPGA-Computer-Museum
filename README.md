@@ -28,30 +28,26 @@ These classic systems represent the kinds of machines the museum aims to reconst
   <table>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Apple_II.jpg" width="300" alt="Apple II"><br>
-        <b>Apple II</b>
+        <img src="images/5.jpeg" width="300" alt="Classic computer collection: Apple II, PET, Commodore 64, Atari 400, Altair 8800, and Amiga"><br>
+        <b>Classic Computer Collection</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Commodore_PET_2001.jpg" width="300" alt="PET"><br>
-        <b>PET</b>
+        <img src="images/4.jpeg" width="300" alt="Altair 8800"><br>
+        <b>Altair 8800</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Commodore64.jpg" width="300" alt="Commodore 64"><br>
-        <b>Commodore 64</b>
+        <img src="images/1.jpeg" width="300" alt="Apollo lunar module on the Moon"><br>
+        <b>Apollo Lunar Module</b>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Altair_8800_Computer.jpg" width="300" alt="Altair 8800"><br>
-        <b>Altair 8800</b>
+        <img src="images/2.jpeg" width="300" alt="Apollo Guidance Computer display and keyboard"><br>
+        <b>Apollo Guidance Computer Display</b>
       </td>
       <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Amiga_500.jpg" width="300" alt="Amiga"><br>
-        <b>Amiga</b>
-      </td>
-      <td align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LM_lunar_lander.jpg" width="300" alt="Apollo lunar module"><br>
-        <b>Aerospace & Spacecraft</b>
+        <img src="images/3.jpeg" width="300" alt="Apollo Guidance Computer modules"><br>
+        <b>Apollo Guidance Computer Modules</b>
       </td>
     </tr>
   </table>
